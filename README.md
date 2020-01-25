@@ -1,2 +1,2 @@
-# base node project
-Just a simple node project with babel.  Can be used as a template for any number of projects - express, restify, etc.
+# base restify project
+Just a simple node project with babel and restify.
